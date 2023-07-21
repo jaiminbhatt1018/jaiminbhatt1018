@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaimin Bhatt</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanzal.hashnode.dev%2Fwhat-you-need-to-know-about-programming&psig=AOvVaw1K8jZrHUE4lXHMFZnhPjjl&ust=1690041695800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCu25aWoIADFQAAAAAdAAAAABAI">
+<img align="right" alt="coding" width="400" src="b726a047-e9f9-45a4-97e0-365dbadb318c.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiminbhatt1018&label=Profile%20views&color=0e75b6&style=flat" alt="jaiminbhatt1018" /> </p>
 
